@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djongo
+django-constance
+sqlparse
+psycopg2-binary
